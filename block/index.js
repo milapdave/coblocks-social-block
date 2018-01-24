@@ -1,8 +1,4 @@
 /**
- * @@pkg.title
- */
-
-/**
  * Internal dependencies
  */
 import './editor.scss';
