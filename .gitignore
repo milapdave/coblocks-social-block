@@ -1,0 +1,84 @@
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+*.map
+
+# Logs and databases #
+############
+*.log
+*.sql
+
+# OS generated files #
+############
+**.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+
+# Vim generated files #
+############
+*.un~
+
+# SASS #
+##########
+**/.sass-cache
+**/.sass-cache/*
+**/.map
+
+# Minified/Compiled files #
+############
+*.min.*
+*.css
+*block.build.js
+/block/build
+
+# Languages #
+############
+languages
+
+# WordPress.org Readme.txt #
+############
+readme.txt
+
+# Composer #
+##########
+vendors/composer/
+!assets/js/vendor/
+wpcs/
+composer.lock
+
+# Bower #
+##########
+assets/bower_components/*
+
+# Codekit #
+##########
+/codekit-config.json
+*.codekit
+**.codekit-cache/*
+
+# NPM #
+##########
+node_modules
+
+# Compiled Files and Build Dirs #
+##########
+/README.html
+/build/
+/dist/
+
+# Sublime Project Files #
+*.sublime-project
+*.sublime-workspace
+
+*.cache
