@@ -5,7 +5,7 @@
 
 ## Meet CoBlocks. ##
 
-[![CoBlocks, an upcoming suite of Gutenberg Blocks for Content Marketers](https://user-images.githubusercontent.com/1813435/39446385-4d4d8766-4c8c-11e8-8e65-098323899577.jpg)](https://coblocks.com)
+[![CoBlocks, an upcoming suite of Gutenberg Blocks for Content Marketers](https://user-images.githubusercontent.com/1813435/39494435-5fc12b72-4d64-11e8-8dc4-24e159afe340.jpg)](https://coblocks.com)
 
 ## CoBlocks Social Block ##
 
