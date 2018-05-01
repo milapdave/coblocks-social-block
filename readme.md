@@ -3,8 +3,6 @@
 [![WP](https://img.shields.io/badge/WordPress-%E2%86%92-lightgrey.svg?style=flat-square)](https://wordpress.org/plugins/social-sharing-block-gutenberg)
 [![WordPress plugin](https://img.shields.io/wordpress/plugin/dt/social-sharing-block-gutenberg.svg?style=flat)](https://wordpress.org/plugins/social-sharing-block-gutenberg/) [![WordPress plugin](https://img.shields.io/wordpress/plugin/v/social-sharing-block-gutenberg.svg?style=flat)](https://wordpress.org/plugins/social-sharing-block-gutenberg/) [![WordPress](https://img.shields.io/wordpress/v/social-sharing-block-gutenberg.svg?style=flat)]() [![License](https://img.shields.io/badge/license-GPL--3.0%2B-red.svg)](https://github.com/thatplugincompany/coblocks-social-block/blob/master/license.txt)
 
-## Meet CoBlocks. ##
-
 [![CoBlocks, an upcoming suite of Gutenberg Blocks for Content Marketers](https://user-images.githubusercontent.com/1813435/39494435-5fc12b72-4d64-11e8-8dc4-24e159afe340.jpg)](https://coblocks.com)
 
 ## CoBlocks Social Block ##
