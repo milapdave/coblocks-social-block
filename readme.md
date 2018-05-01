@@ -9,6 +9,10 @@
 
 This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-github&utm_source=readme&utm_campaign=readme&utm_content=coblocks) that let's you easily add social sharing icons within the Gutenberg editor. [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-block-github&utm_source=readme&utm_campaign=readme&utm_content=footer-text) is an upcoming suite of page builder Gutenberg blocks built for publishers, writers and content marketers.
 
+## Screenshot ##
+
+![coblocks-social-block](https://user-images.githubusercontent.com/1813435/39494533-c29e9be4-4d64-11e8-9ba5-6f881a53988a.jpg)
+
 ## Installation ##
 
 1. Install the offical [Gutenberg](https://wordpress.org/plugins/gutenberg/) plugin. Note that Gutenberg is not suggested for use on production sites.
