@@ -1,19 +1,20 @@
-.wp-block-gutenkit-social-sharing {
+.wp-block-coblocks-social {
 
-	&__button {
-		position: relative;
-		height: 28px;
-		width: 28px;
-		background-size: cover;
-		box-shadow: none !important;
-		text-decoration: none !important;
-		padding: 0 !important;
-		display: inline-block;
+	p {
+		line-height: 1;
 	}
 
-	a {
+	&__button {
 		background-color: #222;
-		margin: 0 .33em;
+		background-size: cover;
+		box-shadow: none;
+		display: inline-block;
+		height: 28px;
+		padding: 0;
+		position: relative;
+		text-decoration: none;
+		vertical-align: middle;
+		width: 28px;
 
 		&:first-of-type {
 			margin-left: 0;
@@ -51,12 +52,15 @@
 	}
 
 	@keyframes pulse {
+
 		0% {
 			transform: scale(1);
 		}
+
 		15% {
 			transform: scale(0.9);
 		}
+
 		100% {
 			transform: scale(1);
 		}

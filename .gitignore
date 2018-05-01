@@ -13,12 +13,12 @@
 *.map
 
 # Logs and databases #
-############
+######################
 *.log
 *.sql
 
 # OS generated files #
-############
+######################
 **.DS_Store*
 ehthumbs.db
 Icon?
@@ -26,7 +26,7 @@ Thumbs.db
 ._*
 
 # Vim generated files #
-############
+######################
 *.un~
 
 # SASS #
@@ -36,18 +36,17 @@ Thumbs.db
 **/.map
 
 # Minified/Compiled files #
-############
+######################
 *.min.*
 *.css
 *block.build.js
-/block/build
 
 # Languages #
-############
+######################
 languages
 
 # WordPress.org Readme.txt #
-############
+######################
 readme.txt
 
 # Composer #

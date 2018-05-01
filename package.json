@@ -1,54 +1,50 @@
 {
-	"name": "GutenKit_Social_Sharing",
-	"title": "GutenKit Social Sharing",
-	"slug": "social-sharing-block-gutenberg",
-	"textdomain": "social-sharing-block-gutenberg",
-	"author": "Rich from GutenKit",
-	"version": "1.0.2",
-	"tags": "gutenberg, editor, social, sharing, marketing",
-	"requires": "4.7",
-	"tested_up_to": "4.9.1",
-	"author_shop": "ThatPluginCompany",
-	"author_uri": "https://richtabor.com",
-	"plugin_uri": "https://gutenkit.com",
-	"license": "GPL-3.0",
-	"dependencies": {
-		"react": "16.2.0",
-		"react-autosize-textarea": "2.0.0"
-	},
-	"devDependencies": {
-		"babel-core": "^6.25.0",
-		"babel-loader": "^7.1.1",
-		"babel-plugin-lodash": "3.2.11",
-		"babel-plugin-transform-object-rest-spread": "^6.26.0",
-		"babel-plugin-transform-react-jsx": "^6.24.1",
-		"babel-plugin-transform-runtime": "^6.23.0",
-		"babel-preset-env": "^1.6.0",
-		"cross-env": "^5.0.1",
-		"extract-text-webpack-plugin": "^3.0.2",
-		"gulp": "^3.9.1",
-		"gulp-cache": "^0.5.0",
-		"gulp-clean": "^0.3.2",
-		"gulp-concat": "^2.5.2",
-		"gulp-copy": "^1.0.1",
-		"gulp-imagemin": "^2.4.0",
-		"gulp-notify": "^2.2.0",
-		"gulp-rename": "^1.2.0",
-		"gulp-replace-task": "^0.11.0",
-		"gulp-sort": "^2.0.0",
-		"gulp-uglify": "^1.5.3",
-		"gulp-uglifycss": "^1.0.8",
-		"gulp-wp-pot": "^1.2.2",
-		"gulp-zip": "^4.0.0",
-		"node-sass": "^4.7.2",
-		"postcss-loader": "^2.0.10",
-		"raw-loader": "^0.5.1",
-		"run-sequence": "^2.2.0",
-		"sass-loader": "^6.0.6",
-		"webpack": "^3.1.0"
-	},
-	"scripts": {
-		"build": "cross-env BABEL_ENV=default NODE_ENV=production webpack",
-		"dev": "cross-env BABEL_ENV=default webpack --watch"
-	}
+  "name": "social-block-gutenberg",
+  "title": "CoBlocks Social Block",
+  "version": "1.2.1",
+  "private": true,
+  "author": "Rich Tabor from CoBlocks",
+  "requires": "4.7",
+  "tested_up_to": "4.9.7",
+  "license": "GPL-3.0",
+  "copyright": "Copyright (c) 2018, CoBlocks of Inventionn LLC",
+  "downloadid": "",
+  "description": "Add social sharing links with the CoBlocks Social Block. CoBlocks is a suite of professional content blocks for the upcoming WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering content marketers, writers and publishers to write beautifully rich content in WordPress.",
+  "tags": "",
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "cgb-scripts": "1.9.6",
+    "classnames": "2.2.5",
+    "postcss": "^6.0.19",
+    "re-resizable": "4.0.3",
+    "react": "^16.2.0",
+    "striptags": "^3.1.1",
+    "stylelint": "^9.1.1",
+    "stylelint-config-wordpress": "^13.0.0"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-copy": "^1.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-if": "^2.0.2",
+    "gulp-open": "^2.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sftp": "^0.1.5",
+    "gulp-replace-task": "^0.11.0",
+    "gulp-run-command": "0.0.9",
+    "gulp-zip": "^4.0.0",
+    "stylelint-config-wordpress": "^13.0.0"
+  },
+  "stylelint": {
+    "extends": "stylelint-config-wordpress/scss",
+    "rules": {
+      "at-rule-empty-line-before": null
+    }
+  }
 }
