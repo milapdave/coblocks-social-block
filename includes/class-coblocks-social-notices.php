@@ -101,7 +101,7 @@ class CoBlocks_Social_Notices {
 			wp_kses( __( '<div class="error"><p>The %1$1s is not necessary with %2$2s activated. <a href="%3$3s">Deactivate %1$1s &rarr;</a></p></div>', '@@textdomain' ), $allowed_html_array ),
 			esc_html( 'CoBlocks Social Block' ),
 			esc_html( 'CoBlocks' ),
-			esc_url( $this->plugin_action_link( 'spacer-block-gutenberg/class-coblocks-spacer.php', 'deactivate' ) )
+			esc_url( $this->plugin_action_link( 'social-sharing-block-gutenberg/class-coblocks-social.php', 'deactivate' ) )
 		);
 	}
 }
