@@ -35,7 +35,7 @@ Please read the [guidelines for contributing](https://github.com/thatplugincompa
 
 1. Raise an [Issue](https://github.com/thatplugincompany/coblocks-social-block/issues/new) on GitHub
 2. Send a pull request with your bug fixes and/or new features
-3. Provide feedback and suggestions on [enhancements](https://github.com/thatplugincompany/coblocks/issues?direction=desc&labels=Enhancement,Spacer&page=1&sort=created&state=open)
+3. Provide feedback and suggestions on [enhancements](https://github.com/thatplugincompany/coblocks/issues?direction=desc&labels=Enhancement&page=1&sort=created&state=open)
 
 ## Screenshot ##
 
