@@ -5,11 +5,13 @@
 
 [![CoBlocks, an upcoming suite of Gutenberg Blocks for Content Marketers](https://user-images.githubusercontent.com/1813435/39494435-5fc12b72-4d64-11e8-8dc4-24e159afe340.jpg)](https://coblocks.com)
 
+> [🎉 Download CoBlocks on WordPress.org](https://wordpress.org/plugins/coblocks/).
+
 ## CoBlocks Social Block ##
 
 This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-block-github&utm_source=readme&utm_campaign=readme&utm_content=coblocks) that let's you easily add social sharing icons within the Gutenberg editor. [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-block-github&utm_source=readme&utm_campaign=readme&utm_content=footer-text) is an upcoming suite of page builder Gutenberg blocks built for publishers, writers and content marketers.
 
-> 💥: More blocks → [CoBlocks: Gutenberg blocks for content marketers](https://github.com/thatplugincompany/coblocks).
+> 💥 More blocks → [CoBlocks: Gutenberg blocks for content marketers](https://github.com/thatplugincompany/coblocks).
 
 ## Installation ##
 
@@ -28,7 +30,7 @@ This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=cobloc
 Need help? This is a developer's portal for CoBlocks and should not be used for general support and queries. Please visit the [CoBlocks support forum on WordPress.org](https://wordpress.org/support/plugin/coblocks) if you need help using the plugin.
 
 ## Bugs ##
-[Create an issue](https://github.com/thatplugincompany/coblocks-spacer-block/issues?state=open) if you find a 🐞 or discover an issue.
+[Create an issue](https://github.com/thatplugincompany/coblocks/issues/new) if you find a 🐞 or discover an issue.
 
 ## Contributions ##
 Please read the [guidelines for contributing](https://github.com/thatplugincompany/coblocks/blob/master/CONTRIBUTING.md) to CoBlocks. Anyone is welcome to contribute!
