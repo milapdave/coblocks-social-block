@@ -9,6 +9,8 @@
 
 This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-github&utm_source=readme&utm_campaign=readme&utm_content=coblocks) that let's you easily add social sharing icons within the Gutenberg editor. [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-block-github&utm_source=readme&utm_campaign=readme&utm_content=footer-text) is an upcoming suite of page builder Gutenberg blocks built for publishers, writers and content marketers.
 
+> 💥: More blocks → [CoBlocks: Gutenberg blocks for content marketers](https://github.com/thatplugincompany/coblocks).
+
 ## Installation ##
 
 1. Install the offical [Gutenberg](https://wordpress.org/plugins/gutenberg/) plugin. Note that Gutenberg is not suggested for use on production sites.
@@ -23,17 +25,17 @@ This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=cobloc
 5. Run the `build` gulp task to process build files and generate a zip.
 
 ## Support ##
-Need help? This is a developer's portal for CoBlocks and should not be used for general support. Please visit the [support forum on WordPress.org](https://wordpress.org/support/plugin/social-sharing-block-gutenberg) if you need help.
+Need help? This is a developer's portal for CoBlocks and should not be used for general support and queries. Please visit the [CoBlocks support forum on WordPress.org](https://wordpress.org/support/plugin/coblocks) if you need help using the plugin.
 
 ## Bugs ##
-If you find a 🐞 or an issue, [create an issue](https://github.com/thatplugincompany/coblocks-social-block/issues?state=open).
+[Create an issue](https://github.com/thatplugincompany/coblocks-spacer-block/issues?state=open) if you find a 🐞 or discover an issue.
 
 ## Contributions ##
-Anyone is welcome to contribute to the plugin. Please read the [guidelines for contributing](https://github.com/thatplugincompany/coblocks-social-block/blob/master/CONTRIBUTING.md) to this repository. There are various ways you can contribute:
+Please read the [guidelines for contributing](https://github.com/thatplugincompany/coblocks/blob/master/CONTRIBUTING.md) to CoBlocks. Anyone is welcome to contribute!
 
-1. Raise an [Issue](https://github.com/thatplugincompany/coblocks-social-block/issues) on GitHub
+1. Raise an [Issue](https://github.com/thatplugincompany/coblocks-social-block/issues/new) on GitHub
 2. Send a pull request with your bug fixes and/or new features
-3. Provide feedback and suggestions on [enhancements](https://github.com/thatplugincompany/coblocks-social-block/issues?direction=desc&labels=Enhancement&page=1&sort=created&state=open)
+3. Provide feedback and suggestions on [enhancements](https://github.com/thatplugincompany/coblocks/issues?direction=desc&labels=Enhancement,Spacer&page=1&sort=created&state=open)
 
 ## Screenshot ##
 
