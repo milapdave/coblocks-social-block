@@ -7,7 +7,7 @@
 
 ## CoBlocks Social Block ##
 
-This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-github&utm_source=readme&utm_campaign=readme&utm_content=coblocks) that let's you easily add social sharing icons within the Gutenberg editor. [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-block-github&utm_source=readme&utm_campaign=readme&utm_content=footer-text) is an upcoming suite of page builder Gutenberg blocks built for publishers, writers and content marketers.
+This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-block-github&utm_source=readme&utm_campaign=readme&utm_content=coblocks) that let's you easily add social sharing icons within the Gutenberg editor. [CoBlocks](https://coblocks.com?utm_medium=coblocks-social-block-github&utm_source=readme&utm_campaign=readme&utm_content=footer-text) is an upcoming suite of page builder Gutenberg blocks built for publishers, writers and content marketers.
 
 > 💥: More blocks → [CoBlocks: Gutenberg blocks for content marketers](https://github.com/thatplugincompany/coblocks).
 
