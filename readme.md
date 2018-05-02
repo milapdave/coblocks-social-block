@@ -12,8 +12,8 @@ This is a Gutenberg block from [CoBlocks](https://coblocks.com?utm_medium=cobloc
 ## Installation ##
 
 1. Install the offical [Gutenberg](https://wordpress.org/plugins/gutenberg/) plugin. Note that Gutenberg is not suggested for use on production sites.
-2. [Download the latest release](https://github.com/thatplugincompany/coblocks-social-block/releases) from the GitHub repository, or..
-3. Download the plugin from the [WordPress plugin directory](https://wordpress.org/plugins/social-sharing-block-gutenberg/).
+2. Download the plugin from the [WordPress plugin directory](https://wordpress.org/plugins/social-sharing-block-gutenberg/), or...
+3. Clone this GitHub repository, and run the `npm install` and `npm start` commands.
 
 ## Development ##
 1. Clone the GitHub repository: `https://github.com/thatplugincompany/coblocks-social-block.git`
@@ -37,5 +37,5 @@ Anyone is welcome to contribute to the plugin. Please read the [guidelines for c
 
 ## Screenshot ##
 
-![coblocks-social-block](https://user-images.githubusercontent.com/1813435/39494533-c29e9be4-4d64-11e8-9ba5-6f881a53988a.jpg)
+[![View the CoBlocks Social Block in action](https://user-images.githubusercontent.com/1813435/39494533-c29e9be4-4d64-11e8-9ba5-6f881a53988a.jpg)](https://coblocks.com)
 
