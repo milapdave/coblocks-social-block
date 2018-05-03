@@ -155,9 +155,9 @@ function coblocks_register_social_block() {
 
 	register_block_type(
 		'coblocks/social', array(
-			'editor_script'   => 'coblocks-editor',
-			'editor_style'    => 'coblocks-editor',
-			'style'           => 'coblocks-frontend',
+			'editor_script'   => 'coblocks-social-block-plugin-editor',
+			'editor_style'    => 'coblocks-social-block-plugin-editor',
+			'style'           => 'coblocks-social-block-plugin-frontend',
 			'attributes'      => array(
 				'twitter'         => array(
 					'type'    => 'boolean',
